@@ -8,19 +8,17 @@
 
 <!-- /automd -->
 
-[![](https://dcbadge.vercel.app/api/server/fdXy3Sk8Gq?style=flat)](https://discord.gg/fdXy3Sk8Gq)
-
 PaneForge provides components that make it easy to create resizable panes in your Svelte apps. It's designed to be simple to use, and to work well with other Svelte components and libraries. This project has taken a lot of inspiration and code from the work done by [Bryan Vaughn](https://github.com/bvaughn) and [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) and seeks to provide a similar experience for Svelte developers.
 
 ## Features
 
--   **Simple API**: PaneForge is designed to be easy to use. It provides a small set of components that can be combined to create complex layouts.
--   **Resizable Panes**: Panes can be resized by dragging the resizer between them.
--   **Nested Groups**: Groups of panes can be nested inside other groups to create complex layouts.
--   **Customizable**: The appearance and behavior of the panes can be customized using CSS and Svelte props.
--   **Persistent Layouts**: PaneForge can be used with LocalStorage or cookies to persist the layout of the panes between page loads.
--   **Accessible**: PaneForge is designed to be accessible to all users, including those who use assistive technologies.
--   **Community-driven**: PaneForge is an open-source project that welcomes contributions from the community. If you have an idea for a new feature or an improvement, we'd love to hear from you!
+- **Simple API**: PaneForge is designed to be easy to use. It provides a small set of components that can be combined to create complex layouts.
+- **Resizable Panes**: Panes can be resized by dragging the resizer between them.
+- **Nested Groups**: Groups of panes can be nested inside other groups to create complex layouts.
+- **Customizable**: The appearance and behavior of the panes can be customized using CSS and Svelte props.
+- **Persistent Layouts**: PaneForge can be used with LocalStorage or cookies to persist the layout of the panes between page loads.
+- **Accessible**: PaneForge is designed to be accessible to all users, including those who use assistive technologies.
+- **Community-driven**: PaneForge is an open-source project that welcomes contributions from the community. If you have an idea for a new feature or an improvement, we'd love to hear from you!
 
 ## Installation
 
@@ -72,14 +70,3 @@ Made by [@huntabyte](https://github.com/huntabyte) and [community](https://githu
 </a>
 
 <!-- /automd -->
-
-## Community
-
-Join the Discord server to ask questions, find collaborators, or just say hi!
-
-<a href="https://discord.gg/fdXy3Sk8Gq" alt="Svecosystem Discord community">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://invidget.switchblade.xyz/fdXy3Sk8Gq">
-  <img alt="Svecosystem Discord community" src="https://invidget.switchblade.xyz/fdXy3Sk8Gq?theme=light">
-</picture>
-</a>
